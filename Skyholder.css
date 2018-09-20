@@ -24,5 +24,18 @@
 }
 
 body {
-    background-image: url("achtergrondmain.jpg");
+    background-image: url("Pics/achtergrondmain.jpg");
+}
+
+.tekst1 {
+background-color: grey;
+border-width: 3px;
+border-color: red;
+border-style: solid;
+width: 500px;
+margin: auto;
+}
+
+.innertekst1 {
+text-align: center;
 }
